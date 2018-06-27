@@ -8,7 +8,7 @@ Hands-On-Blockchain-with-Hyperledger 中文翻译计划
 | Blockchain - Enterprise and Industry Perspective | - | - | - | - |
 | Exploring Hyperledger Fabric | - | kyugao | - | - |
 | Setting the Stage with a Business Scenario | - | - | - | - |
-| Designing a Data and Transaction Model with Golang | - | zhouzhengji | 守 護 | - |
+| Designing a Data and Transaction Model with Golang | - | zhouzhengji | liuxingxing1 | - |
 | Exposing Network Assets and Transactions | - | - | - | - |
 | Business Networks | - | - | - | - |
 | A Business Network Example | - | - | - | - |
