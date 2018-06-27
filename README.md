@@ -13,6 +13,6 @@ Hands-On-Blockchain-with-Hyperledger 中文翻译计划
 | Business Networks | - | - | - | - |
 | A Business Network Example | - | - | - | - |
 | Agility in a Blockchain Network | - | - | - | - |
-| Life in a Blockchain Network | huhuun | - | - | - |
+| Life in a Blockchain Network | - | huhuun | - | - |
 | Governance, Necessary Evil of Regulated Industries | - | - | - | - |
 | Hyperledger Fabric Security | - | - | - | - |
