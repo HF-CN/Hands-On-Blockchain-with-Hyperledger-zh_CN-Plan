@@ -9,7 +9,7 @@ Hands-On-Blockchain-with-Hyperledger 中文翻译计划
 | Exploring Hyperledger Fabric | - | kyugao | - | - |
 | Setting the Stage with a Business Scenario | - | - | - | - |
 | Designing a Data and Transaction Model with Golang | - | zhouzhengji | liuxingxing1 | - |
-| Exposing Network Assets and Transactions | - | - | leehommlee | - |
+| Exposing Network Assets and Transactions | - | leehommlee | - | - |
 | Business Networks | - | - | - | - |
 | A Business Network Example | - | - | - | - |
 | Agility in a Blockchain Network | - | - | - | - |
